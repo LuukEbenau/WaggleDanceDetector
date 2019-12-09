@@ -27,6 +27,9 @@ Our team that is currently working on this project are:
 * Dion Trilbeek (Sensor data)
 * Hugo  (Pollen Analysis)
 
+## Word of thanks
+I would also like to thank the team who published the WDD_Paper at the Biorobotics lab at the Freie university in berlin for their research on the same subject, since they were one of the main inspirations for the codebase(see: https://github.com/BioroboticsLab/WDD_paper)
+
 ## Used Hardware
 For this project we've used a large amount of hardware components (besides the beehive)
 These are the hardware components that we use:
